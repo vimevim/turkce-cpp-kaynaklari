@@ -1,5 +1,5 @@
-Bu sayfada C# programlama dili için Türkçe olarak hazırlanmış kaynakları (çeviri, blog yazısı, video eğitim vb.) bulabilirsiniz. Python hakkında aklınıza takılan sorular varsa [Python Türkiye](https://www.facebook.com/groups/PythonTurkiye/) Facebook grubuna veya [Yazbel Forum](https://forum.yazbel.com/)'a katılıp sorabilirsiniz. 
-Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Rehberi](https://github.com/ibrahimirdem/turkce-python-kaynaklari/blob/master/katkida-bulunma-rehberi.md)ndeki adımları izleyerek ekleme yapabilirsiniz.
+Bu sayfada C# programlama dili için Türkçe olarak hazırlanmış kaynakları (çeviri, blog yazısı, video eğitim vb.) bulabilirsiniz. 
+Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Rehberi](https://github.com/vimevim/turkce-C-sharp-kaynaklari/blob/main/katkida-bulunma-rehberi.md)ndeki adımları izleyerek ekleme yapabilirsiniz.
 > Bilgi paylaştıkça çoğalır.
 ###### :star::Önerilen içerik,  :heavy_dollar_sign::Ücretli İçerik
 
