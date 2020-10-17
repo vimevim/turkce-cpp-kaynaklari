@@ -30,6 +30,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [C# (Csharp) Dersleri](https://www.youtube.com/watch?v=-7yo2el1XLI&list=PL1-boLQD9cuKTUWlZ1rXsErgs-9HqBfac)(Oğuzhan Memiş)
 * [C# Dersleri - Eğitim Seti](https://www.youtube.com/playlist?list=PLUpnl7cR0FYTwI0EWow1BNJu7bAvFDH7r)(MuhammedMastar.com)
 * [C# Dersleri - 10 Günde CSharp (C#)](https://www.youtube.com/playlist?list=PL2atofUpdCAV_ZlpK9mz6ul-fRYx2yXDY)(Yazilim Hocasi)
+* [ csharpvideoluders2 ](https://www.youtube.com/user/csharpvideoluders2/videos)( csharpvideoluders2 )
 
 ## Bloglar
 
