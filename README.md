@@ -32,11 +32,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [C# Dersleri - 10 Günde CSharp (C#)](https://www.youtube.com/playlist?list=PL2atofUpdCAV_ZlpK9mz6ul-fRYx2yXDY)(Yazilim Hocasi)
 
 ## Bloglar
-* [ysar.net](http://ysar.net) (Yaşar Arabacı)
 
 ## Siteler
-* [pythondersleri.com](http://www.pythondersleri.com)
-
 
 ## Kitaplar
-* [Her Yönüyle Python](https://www.kitapyurdu.com/kitap/her-yonuyle-python-ozel-basim/312293.html&manufacturer_id=21036) (Fırat Özgül)
