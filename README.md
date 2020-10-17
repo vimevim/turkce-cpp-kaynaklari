@@ -17,13 +17,14 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * :star: [C Sharp Programlama Dili](https://tr.wikibooks.org/wiki/C_Sharp_Programlama_Dili) (Vikitap)
 * [C# Görsel Programlama](http://mehmetmikail.weebly.com/) (Mehmet Mikâil Yağcı)
 * [C Sharp](https://mustafabukulmez.com/category/programlama/c-sharp/)(Mustafa Büyüklmez)
+* [C#](https://www.ismailgursoy.com.tr/category/yazilim/csharp/)(İsmail Gürsoy)
 
 
 ## Eğitim Seti (Video)
-* :star: [Yazılım Bilimi Python 3 Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHehcxQE1XZieL21syR3m3tR) (Mustafa Murat Coşkun)
-* :star::heavy_dollar_sign: [(42 Saat) Python : Sıfırdan İleri Seviye Programlama (2019)](https://www.udemy.com/sifirdan-ileri-seviyeye-python/) (Mustafa Murat Coşkun)
-* :star: [Sıfırdan Python Programlama Dersleri](https://www.youtube.com/playlist?list=PLK6Whnd55IH5i1klkNSBDasIaO77l-Bm9) (Mert Mekatronik)
-* [Bilgisayar Bilimi Python Programlama](https://www.youtube.com/playlist?list=PLv5gvG08kLQekD20hqte2ptaV-O_QKybV) (Sinan Urun)
+* [C# Dersleri](https://www.youtube.com/playlist?list=PLKnjBHu2xXNPkeQtMOJczzEO6LK5OV35K) (Murat Yücedağ)
+* [50 Derste C# Console)](https://www.youtube.com/playlist?list=PLKnjBHu2xXNPKBD9ZatMx5XHFIekWIU78) (Murat Yücedağ)
+* [C# Dersleri](https://www.youtube.com/playlist?list=PLDUOF2Be-kzmT2ss1tdy0p_xmRVwodQJ5) (Bilgisayar Mühendisliği)
+* [C# DERSLERİ](https://www.youtube.com/playlist?list=PLqG356ExoxZU5keiJwuHDpXqULLffwRYD) (Engin Demiroğ)
 
 
 ## Bloglar
