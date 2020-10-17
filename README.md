@@ -14,8 +14,8 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 - - -
 
 ## Eğitim Seti (Yazılı)
-* :star: [İstihza Python 3 için Türkçe Kaynak](https://python-istihza.yazbel.com/) (Fırat özgül)
-* [Bilgisayar Bilimcisi Gibi Düşünmek](https://erdiyar.files.wordpress.com/2010/03/bbgd_pio.pdf) (Jeffrey Elkner, Allen B. Downey ve Chris Meyers)
+* :star: [C Sharp Programlama Dili](https://tr.wikibooks.org/wiki/C_Sharp_Programlama_Dili) (Vikitap)
+* [C# Görsel Programlama](http://mehmetmikail.weebly.com/) (Mehmet Mikâil Yağcı)
 
 
 ## Eğitim Seti (Video)
