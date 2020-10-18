@@ -2,7 +2,7 @@
 
 ## Yeni Kayıt Ekleme
 
-1. [readme.md](https://github.com/ibrahimirdem/turkce-python-kaynaklari/blob/master/README.md) adresinde sayfanın sağ üstünde bulunan **Raw Blame History** butonlarının hemen yanında bulunan **Edit This File** butonuna tıklayın.
+1. [readme.md](https://github.com/ibrahimirdem/turkce-c-sharp-kaynaklari/blob/master/README.md) adresinde sayfanın sağ üstünde bulunan **Raw Blame History** butonlarının hemen yanında bulunan **Edit This File** butonuna tıklayın.
 ![image](https://user-images.githubusercontent.com/12828465/34069164-283c9bae-e253-11e7-8a3d-3d18eb1002cf.png)
 
 2. Sayfada güncelleme yaptıktan sonra, önce en altta bulunan **Propose File Change** butonuna sonra da açılan sayfada **Create Pull Request** butonuna tıklayın.
@@ -24,6 +24,6 @@ Eğer içerigin birden fazla yazarı/sahibi var ise ',' ile ayrılmalıdır.
 
 **Modül ve Framework** başlığı altına eklenecek linkin alt başlığı yoksa, Alfabetik sırayı dikkate alarak alt başlığı oluşturup linki eklemelisiniz. Aynı zamanda yeni eklenen alt başlığı İçerikler kısmınada eklemelisiniz.
 
-**Bloglar** başlığı altına ekleme yaparken blog sahibinin blog yazılarının aktifliğine ve Python konusu ile ilgili 5 veya daha fazla postu olması dikkate alınmalıdır.
+**Bloglar** başlığı altına ekleme yaparken blog sahibinin blog yazılarının aktifliğine ve C# konusu ile ilgili 5 veya daha fazla postu olması dikkate alınmalıdır.
 
-**Siteler** başlığı altına ekleme yaparken sitenin içerik kısmı sadece Python ile ilgili olanlar eklenmelidir.
+**Siteler** başlığı altına ekleme yaparken sitenin içerik kısmı sadece C# ile ilgili olanlar eklenmelidir.
