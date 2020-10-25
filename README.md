@@ -24,6 +24,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 
 ## Eğitim Seti (Video)
 * [C# Dersleri](https://www.youtube.com/playlist?list=PLKnjBHu2xXNPkeQtMOJczzEO6LK5OV35K) (Murat Yücedağ)
+* [C# Dersleri İkinci 100 Ders](https://www.youtube.com/playlist?list=PLKnjBHu2xXNPdh-DetLa477OFZCPFSAwG)(Murat Yücedağ)
 * [50 Derste C# Console)](https://www.youtube.com/playlist?list=PLKnjBHu2xXNPKBD9ZatMx5XHFIekWIU78) (Murat Yücedağ)
 * [C# Dersleri](https://www.youtube.com/playlist?list=PLDUOF2Be-kzmT2ss1tdy0p_xmRVwodQJ5) (Bilgisayar Mühendisliği)
 * [C# DERSLERİ](https://www.youtube.com/playlist?list=PLqG356ExoxZU5keiJwuHDpXqULLffwRYD) (Engin Demiroğ)
