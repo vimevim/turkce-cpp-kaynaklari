@@ -15,7 +15,7 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 - - -
 
 ## Eğitim Seti (Yazılı)
-* [C Sharp Programlama Dili](https://tr.wikibooks.org/wiki/C_Sharp_Programlama_Dili) (Vikitap)
+* [C++](https://tr.wikibooks.org/wiki/Kategori:C%2B%2B) (Vikitap)
 
 ## Eğitim Seti (Video)
 * [C# Dersleri](https://www.youtube.com/playlist?list=PLKnjBHu2xXNPkeQtMOJczzEO6LK5OV35K) (Murat Yücedağ)
