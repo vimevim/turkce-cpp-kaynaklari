@@ -24,7 +24,6 @@ Eğer siz de yeni Türkçe kaynaklar eklemek istiyorsanız [Katkıda Bulunma Reh
 * [C++ Dersleri Algoritma ve Programlama](https://www.youtube.com/playlist?list=PLDUOF2Be-kzkUBAt74EdGiiufowiik6MV) (Bilgisayar Mühendisliği)
 * [C++ Programlama Dersleri](https://www.youtube.com/playlist?list=PLoPK1OnMH5178ZBJNAVBA2FXcBMOYmv_n) (Hanefi Mercan)
 * [C++ Dersleri](https://www.youtube.com/playlist?list=PL14A2BD5C50C91ADB) (sina5an)
-* [C++](https://www.youtube.com/playlist?list=PLv8pIziNXv2Mhyn0U_7HCy8NWc7cvxawX) (Programlama TV)
 ## Bloglar
 
 ## Siteler
